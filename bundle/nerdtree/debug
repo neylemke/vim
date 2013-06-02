@@ -1,0 +1,298 @@
+
+chdir(/usr/share/vim)
+fchdir() to previous dir
+sourcing "$VIM/vimrc"
+finished sourcing $VIM/vimrc
+chdir(/Users/neylemke)
+fchdir() to previous dir
+sourcing "$HOME/.vimrc"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 52: sourcing "/usr/share/vim/vim73/syntax/syntax.vim"
+Searching for "syntax/synload.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim73/syntax/synload.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim73/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim73/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim73/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+continuing in /usr/share/vim/vim73/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/Users/neylemke/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/synload.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "filetype.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim73/filetype.vim"
+Searching for "ftdetect/*.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim73/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/Users/neylemke/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/neylemke/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syntax.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "filetype.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 63: sourcing "/usr/share/vim/vim73/filetype.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/neylemke/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim73/ftplugin.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 63: sourcing "/usr/share/vim/vim73/ftplugin.vim"
+finished sourcing /usr/share/vim/vim73/ftplugin.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/Users/neylemke/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim73/indent.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 63: sourcing "/usr/share/vim/vim73/indent.vim"
+finished sourcing /usr/share/vim/vim73/indent.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/Users/neylemke/.vim/after/indent.vim"
+Searching for "ftoff.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/ftoff.vim"
+Searching for "/usr/share/vim/vimfiles/ftoff.vim"
+Searching for "/usr/share/vim/vim73/ftoff.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 100: sourcing "/usr/share/vim/vim73/ftoff.vim"
+finished sourcing /usr/share/vim/vim73/ftoff.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftoff.vim"
+Searching for "/Users/neylemke/.vim/after/ftoff.vim"
+Searching for "autoload/pathogen.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/autoload/pathogen.vim"
+chdir(/Users/neylemke/.vim/autoload)
+fchdir() to previous dir
+line 101: sourcing "/Users/neylemke/.vim/autoload/pathogen.vim"
+finished sourcing /Users/neylemke/.vim/autoload/pathogen.vim
+continuing in /Users/neylemke/.vimrc
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 103: sourcing "/usr/share/vim/vim73/syntax/syntax.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 15: sourcing "/usr/share/vim/vim73/syntax/nosyntax.vim"
+finished sourcing /usr/share/vim/vim73/syntax/nosyntax.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "syntax/synload.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/syntax/synload.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/synload.vim"
+Searching for "/usr/share/vim/vim73/syntax/synload.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 19: sourcing "/usr/share/vim/vim73/syntax/synload.vim"
+Searching for "syntax/syncolor.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vimfiles/syntax/syncolor.vim"
+Searching for "/usr/share/vim/vim73/syntax/syncolor.vim"
+chdir(/usr/share/vim/vim73/syntax)
+fchdir() to previous dir
+line 21: sourcing "/usr/share/vim/vim73/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syncolor.vim
+continuing in /usr/share/vim/vim73/syntax/synload.vim
+Searching for "/usr/share/vim/vimfiles/after/syntax/syncolor.vim"
+Searching for "/Users/neylemke/.vim/after/syntax/syncolor.vim"
+finished sourcing /usr/share/vim/vim73/syntax/synload.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "filetype.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 25: sourcing "/usr/share/vim/vim73/filetype.vim"
+Searching for "ftdetect/*.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/ftdetect/*.vim"
+Searching for "/usr/share/vim/vim73/ftdetect/*.vim"
+Searching for "/usr/share/vim/vimfiles/after/ftdetect/*.vim"
+Searching for "/Users/neylemke/.vim/after/ftdetect/*.vim"
+not found in 'runtimepath': "ftdetect/*.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /usr/share/vim/vim73/syntax/syntax.vim
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/neylemke/.vim/after/filetype.vim"
+finished sourcing /usr/share/vim/vim73/syntax/syntax.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "filetype.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 104: sourcing "/usr/share/vim/vim73/filetype.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/neylemke/.vim/after/filetype.vim"
+Searching for "ftplugin.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/ftplugin.vim"
+Searching for "/usr/share/vim/vimfiles/ftplugin.vim"
+Searching for "/usr/share/vim/vim73/ftplugin.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 104: sourcing "/usr/share/vim/vim73/ftplugin.vim"
+finished sourcing /usr/share/vim/vim73/ftplugin.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/ftplugin.vim"
+Searching for "/Users/neylemke/.vim/after/ftplugin.vim"
+Searching for "indent.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim73/indent.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 104: sourcing "/usr/share/vim/vim73/indent.vim"
+finished sourcing /usr/share/vim/vim73/indent.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/Users/neylemke/.vim/after/indent.vim"
+Searching for "spell/en.utf-8.spl" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/spell/en.utf-8.spl"
+Searching for "/usr/share/vim/vimfiles/spell/en.utf-8.spl"
+Searching for "/usr/share/vim/vim73/spell/en.utf-8.spl"
+Reading spell file "/usr/share/vim/vim73/spell/en.utf-8.spl"
+Searching for "spell/en.utf-8.add.spl" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/spell/en.utf-8.add.spl"
+Searching for "/usr/share/vim/vimfiles/spell/en.utf-8.add.spl"
+Searching for "/usr/share/vim/vim73/spell/en.utf-8.add.spl"
+Searching for "/usr/share/vim/vimfiles/after/spell/en.utf-8.add.spl"
+Searching for "/Users/neylemke/.vim/after/spell/en.utf-8.add.spl"
+not found in 'runtimepath': "spell/en.utf-8.add.spl"
+Searching for "filetype.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/filetype.vim"
+Searching for "/usr/share/vim/vimfiles/filetype.vim"
+Searching for "/usr/share/vim/vim73/filetype.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 114: sourcing "/usr/share/vim/vim73/filetype.vim"
+finished sourcing /usr/share/vim/vim73/filetype.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/filetype.vim"
+Searching for "/Users/neylemke/.vim/after/filetype.vim"
+Searching for "indent.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/indent.vim"
+Searching for "/usr/share/vim/vimfiles/indent.vim"
+Searching for "/usr/share/vim/vim73/indent.vim"
+chdir(/usr/share/vim/vim73)
+fchdir() to previous dir
+line 114: sourcing "/usr/share/vim/vim73/indent.vim"
+finished sourcing /usr/share/vim/vim73/indent.vim
+continuing in /Users/neylemke/.vimrc
+Searching for "/usr/share/vim/vimfiles/after/indent.vim"
+Searching for "/Users/neylemke/.vim/after/indent.vim"
+finished sourcing $HOME/.vimrc
+Searching for "plugin/**/*.vim" in "/Users/neylemke/.vim,/usr/share/vim/vimfiles,/usr/share/vim/vim73,/usr/share/vim/vimfiles/after,/Users/neylemke/.vim/after"
+Searching for "/Users/neylemke/.vim/plugin/**/*.vim"
+chdir(/Users/neylemke/.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/neylemke/.vim/plugin/SyntaxFolds.vim"
+finished sourcing /Users/neylemke/.vim/plugin/SyntaxFolds.vim
+chdir(/Users/neylemke/.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/neylemke/.vim/plugin/filebrowser.vim"
+finished sourcing /Users/neylemke/.vim/plugin/filebrowser.vim
+chdir(/Users/neylemke/.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/neylemke/.vim/plugin/imaps.vim"
+finished sourcing /Users/neylemke/.vim/plugin/imaps.vim
+chdir(/Users/neylemke/.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/neylemke/.vim/plugin/libList.vim"
+finished sourcing /Users/neylemke/.vim/plugin/libList.vim
+chdir(/Users/neylemke/.vim/plugin)
+fchdir() to previous dir
+sourcing "/Users/neylemke/.vim/plugin/remoteOpen.vim"
+finished sourcing /Users/neylemke/.vim/plugin/remoteOpen.vim
+Searching for "/usr/share/vim/vimfiles/plugin/**/*.vim"
+Searching for "/usr/share/vim/vim73/plugin/**/*.vim"
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/getscriptPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/getscriptPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/gzip.vim"
+finished sourcing /usr/share/vim/vim73/plugin/gzip.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/matchparen.vim"
+finished sourcing /usr/share/vim/vim73/plugin/matchparen.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/netrwPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/netrwPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/rrhelper.vim"
+finished sourcing /usr/share/vim/vim73/plugin/rrhelper.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/spellfile.vim"
+finished sourcing /usr/share/vim/vim73/plugin/spellfile.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/tarPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/tarPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/tohtml.vim"
+finished sourcing /usr/share/vim/vim73/plugin/tohtml.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/vimballPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/vimballPlugin.vim
+chdir(/usr/share/vim/vim73/plugin)
+fchdir() to previous dir
+sourcing "/usr/share/vim/vim73/plugin/zipPlugin.vim"
+finished sourcing /usr/share/vim/vim73/plugin/zipPlugin.vim
+Searching for "/usr/share/vim/vimfiles/after/plugin/**/*.vim"
+Searching for "/Users/neylemke/.vim/after/plugin/**/*.vim"
+Reading viminfo file "/Users/neylemke/.viminfo" info oldfiles
+Executing BufEnter Auto commands for "*"
+autocommand silent! call s:LocalBrowse(expand("<amatch>"))
+
+Executing VimEnter Auto commands for "*"
+autocommand silent! call s:VimEnter(expand("<amatch>"))
+
+Executing CursorMoved Auto commands for "*"
+autocommand call s:Highlight_Matching_Pair()
+
+
+E32: No file name
+
+Writing viminfo file "/Users/neylemke/.viminfo"
